@@ -17,9 +17,9 @@ The application is built using Python and utilizes the SQLAlchemy ORM for intera
 
 1. Clone the repository:
 
-   ```
-   git clone https://github.com/your-username/airlines-flight-db-management.git
-   ```
+```
+git clone https://github.com/your-username/airlines-flight-db-management.git
+```
 
 2. Navigate to the project directory:
 
